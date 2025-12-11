@@ -86,6 +86,89 @@ For questions, collaborations, or data inquiries:
 LinkedIn: https://www.linkedin.com/in/texwambui  
 Instagram: **@SustainTheStory**
 
+
+Empowering Green Mobility
+
+Advancing Equitable Electric Vehicle Adoption in Atlanta, Albany, Savannah, and Beyond
+
+📘 Abstract
+
+This white paper explores the unequal distribution of electric vehicle (EV) access and clean mobility infrastructure across Georgia. It examines the challenges underserved communities face—charging deserts, affordability, limited public transit—and offers data-driven, actionable solutions. Through geospatial mapping, policy analysis, and community insights, it calls for strategic investment and equity-centered EV policies.
+
+🔑 Keywords
+
+Transportation equity, EV adoption, charging deserts, disadvantaged communities, sustainability, mobility justice, infrastructure access, policy recommendations, Atlanta, Albany, Savannah
+
+📊 Executive Summary
+
+While Georgia attracts major EV investments, the benefits are unevenly distributed. Wealthier communities are adopting EVs faster, while low-income and rural areas face pollution, high vehicle costs, and little infrastructure. This report reveals these gaps through spatial and socioeconomic analysis and introduces the P3 Opportunity Map—a composite tool to guide equitable investment. Key recommendations include:
+
+Targeting charging deserts
+
+Launching income-based EV incentives
+
+Expanding access for renters and transit-reliant communities
+With federal EV credits set to expire in 2025, urgent action is needed.
+
+📍 Focus Cities
+
+Atlanta
+
+Albany
+
+Savannah
+
+Comparable urban areas across the U.S.
+
+🧩 Key Issues Explored
+
+EV ownership gaps driven by income
+
+Charging infrastructure deserts in urban and rural areas
+
+Poor public transit access in car-dependent communities
+
+Disproportionate air pollution exposure in majority-Black neighborhoods
+
+🗺️ The P3 Opportunity Map
+
+A composite map using:
+
+EV infrastructure data
+
+Income and rent burden
+
+Emissions exposure
+
+Transit access
+
+Vehicle ownership patterns
+Used to identify high-priority zones for infrastructure investment.
+
+🛠️ Georgia Toolkit
+
+An audit of current state tools:
+
+Existing: NEVI funds, pilot transit programs, EV-ready codes (local only)
+
+Missing: Used EV incentives, income-based rebates, rural EV programs, multifamily charging support
+
+📝 Five-Point Action Plan
+
+Invest in Charging Equity Zones
+
+Launch Used EV Incentives for Low-Income Drivers
+
+Expand Multifamily Charging Infrastructure
+
+Electrify Transit + Address First/Last Mile Gaps
+
+Build Public-Private-Philanthropic (P3) Coalitions
+
+🕒 Why Now?
+
+Federal EV tax credits end in September 2025. Without state-level action, Georgia risks locking in long-term inequity in its EV transition. This project is both a roadmap and a call to act—before it’s too late.
+
 ---
 
  
