@@ -1,0 +1,12 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+1a52834b,40021,7,Brown Line: Newton & Oakridge,3,9b633e,ffffff
+8fb1fda1,40021,8,Purple Line: MLK,3,4e0963,ffffff
+bd6b91dc,40021,5,Blue Line: Albany Mall,3,0071ca,ffffff
+adb6dcd1,40021,4,Green / 4X Green Line: Combined,3,0d7215,ffffff
+b1fefb14,40021,3,Orange: SSA,3,ce5504,ffffff
+c27aa4f4,40021,6,Gray Line: Darton College,3,5b5c5c,ffffff
+b6637304,40021,9,Silver Line: Point N Meredyth,3,b1b0b1,ffffff
+2e0d4290,40021,RAM,Rush: East,3,b38800,ffffff
+2e0d4290 (1),40021,RAM,Rush: West,3,b38800,ffffff
+569ae9a6,40021,2,Gold Line: Albany State,3,b38800,ffffff
+f1a0d1a3,40021,1,Red Line / 1X Red Line: Combined,3,ad0101,ffffff

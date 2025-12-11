@@ -1,0 +1,2 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration,agency_id
+Regular Bus Fare,1.70,USD,0,1,5400,40021
