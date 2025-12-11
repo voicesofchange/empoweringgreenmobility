@@ -78,17 +78,6 @@ Key methodologies used:
 
 ---
 
-## 📖 Publication Plans
-
-A full research paper and qualitative analysis will be published separately, synthesizing:
-
-- EV access disparities  
-- Transit coverage gaps  
-- Emissions impacts by neighborhood  
-- Policy implications and recommendations  
-
----
-
 ## 📬 Contact
 
 For questions, collaborations, or data inquiries:
