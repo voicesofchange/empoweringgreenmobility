@@ -36,16 +36,13 @@ The work includes geospatial mapping, policy analysis, and quantitative evaluati
 ## Featured Deliverables
 
 - **White Paper**:  
-  [View PDF](./white_paper/White%20Paper%20Document%20Draft.pdf)
+  [View PDF](.(https://github.com/voicesofchange/empoweringgreenmobility/blob/1bc25d1a52df3dd181a7b48676dd52a7b4746fcd/White%20Paper%20Document%20Draft%20(2).pdf))
 
-- **Podcast Video Episode**:  
-  [Watch the Visual Storyboard](./podcast/empowering_green_mobility_storyboard_video.mp4)
-
-- **Slide Deck Storyboard**:  
-  [Download Slides](./visuals/storyboard_slides.pdf)
+- **Slide Deck Storyboard Video**:  
+  [Watch the Visual Storyboard](.https://github.com/voicesofchange/empoweringgreenmobility/blob/737aa1f3db7c726c11badde4358040c530367df6/Empowering%20Green%20Mobility-%20A%20Data%20Story%20from%20Atlanta%2C%20ALbany%20%26%20Savannah.mp4)
 
 - **Research Memos**:  
-  - Memos
+  - [Memo – Emissions Patterns](.https://github.com/voicesofchange/empoweringgreenmobility/tree/737aa1f3db7c726c11badde4358040c530367df6/Memos)
 
 ---
 
