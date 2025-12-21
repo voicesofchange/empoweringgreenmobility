@@ -45,9 +45,7 @@ The work includes geospatial mapping, policy analysis, and quantitative evaluati
   [Download Slides](./visuals/storyboard_slides.pdf)
 
 - **Research Memos**:  
-  - [Memo 1 – Overview of Equity Barriers](./memos/Memo%201.pdf)  
-  - [Memo 2 – Transit Access Analysis](./memos/Memo%202%20Transportation%20Accesibility%20.pdf)  
-  - [Memo – Emissions Patterns](./memos/Memo%201%20Emissions%20Report.pdf)
+  - Memos
 
 ---
 
